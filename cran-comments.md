@@ -3,7 +3,17 @@
 * win-builder (devel and release)
 
 ## R CMD check results
-There were no ERRORs, WARNINGs or NOTEs. 
+There were no ERRORs or WARNINGs.
+
+There was 1 NOTE:
+* checking CRAN incoming feasibility ... NOTE
+  Maintainer: 'Ege Ulgen <egeulgen@gmail.com>'
+
+  New submission
+
+  Possibly mis-spelled words in DESCRIPTION:
+    Subnetworks (3:9)
+    pathfindR (2:25, 14:65, 15:33)
 
   This is the first submission for pathfindR.data. This is a data-only package,
   containing data needed to use the CRAN package package pathfindR. As 

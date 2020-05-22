@@ -1,2 +1,4 @@
 ^pathfindR\.data\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^.*\.Rprofile$

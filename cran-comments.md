@@ -12,14 +12,13 @@ There was 1 NOTE:
   New submission
 
   Possibly mis-spelled words in DESCRIPTION:
-    Subnetworks (3:9)
-    pathfindR (15:13)
+    Subnetworks (3:16)
   
   This is the first submission for pathfindR.data. This is a data-only package,
-  containing data needed to use the CRAN package package pathfindR. As 
-  suggested, we created this separate data-only package, which will be rarely 
-  updated, to reduce the size of the main package. As requested, the version 
-  number to be >0 was changed and the DESCRIPTION was edited.
+  containing data needed to use the CRAN package 'pathfindR'. As suggested, we 
+  created this separate data-only package, which will be rarely updated, to 
+  reduce the size of the main package. As requested, the version number was 
+  changed to be >0 and software names were single-quoted.
 
 ## Downstream dependencies
   There are currently no downstream dependencies for this package.

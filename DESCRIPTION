@@ -1,5 +1,5 @@
 Package: pathfindR.data
-Title: Data Package for pathfindR: Enrichment Analysis Utilizing Active Subnetworks
+Title: Data Package For pathfindR: Enrichment Analysis Utilizing Active Subnetworks
 Version: 0.0.0
 Authors@R: c(person("Ege", "Ulgen",
                     role = "cre", 

@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^.*\.Rprofile$
+^data-raw$
+^README.md$

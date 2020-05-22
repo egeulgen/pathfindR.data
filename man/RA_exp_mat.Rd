@@ -24,6 +24,6 @@ differentially-expressed genes (see \code{\link{RA_input}}) with adj.P.Val <= 0.
 \seealso{
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame
 \code{\link{RA_output}} for the RA example pathfindR enrichment output
-\code{\link{score_terms}} for details on calculating agglomerated scores of enriched terms
+\code{\link[pathfindR]{score_terms}} for details on calculating agglomerated scores of enriched terms
 }
 \keyword{datasets}

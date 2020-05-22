@@ -30,6 +30,6 @@ with |logFC| >= 2 and FDR < 0.05 are presented.
 }
 \seealso{
 \code{\link{myeloma_output}} for the example mmu enrichment output.
-\code{\link{run_pathfindR}} for details on the pathfindR enrichment analysis.
+\code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis.
 }
 \keyword{datasets}

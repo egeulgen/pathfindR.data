@@ -26,7 +26,7 @@ RA_clustered
 A dataset containing the results of pathfindR's clustering and
 partitioning  workflow performed on the rheumatoid arthritis
 enrichment results \code{\link{RA_output}}. The clustering and partitioning
-function \code{\link{cluster_enriched_terms}} was used with the default settings
+function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 (i.e. hierarchical clustering was performed and the agglomeration method
 was "average"). The optimal number of clusters (yielding the highest average
 silhouette width) was determined to be 15 and the enriched terms with the
@@ -38,8 +38,8 @@ for those clusters.
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame
 \code{\link{RA_clustered}} for the RA example pathfindR clustering output
 \code{\link{RA_exp_mat}} for the RA differentially-expressed genes expression matrix
-\code{\link{run_pathfindR}} for details on the pathfindR enrichment analysis
+\code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis
 \code{\link{RA_output}} for the RA example pathfindR enrichment output
-\code{\link{cluster_enriched_terms}} for details on clustering methods
+\code{\link[pathfindR]{cluster_enriched_terms}} for details on clustering methods
 }
 \keyword{datasets}

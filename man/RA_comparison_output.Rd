@@ -32,6 +32,6 @@ enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 \code{\link{RA_output}} for the RA example pathfindR enrichment output
 \code{\link{RA_clustered}} for the RA example pathfindR clustering output
 \code{\link{RA_exp_mat}} for the RA differentially-expressed genes expression matrix
-\code{\link{run_pathfindR}} for details on the pathfindR enrichment analysis
+\code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis
 }
 \keyword{datasets}

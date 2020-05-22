@@ -28,6 +28,6 @@ differential expression dataset \code{\link{myeloma_input}}.
 }
 \seealso{
 \code{\link{myeloma_input}} for the example mmu input.
-\code{\link{run_pathfindR}} for details on the pathfindR enrichment workflow.
+\code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment workflow.
 }
 \keyword{datasets}

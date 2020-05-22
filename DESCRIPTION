@@ -1,5 +1,5 @@
 Package: pathfindR.data
-Title: Data Package for Enrichment Analysis Utilizing Active Subnetworks
+Title: Data Package for 'pathfindR': Enrichment Analysis Utilizing Active Subnetworks
 Version: 1.0.0
 Authors@R: c(person("Ege", "Ulgen",
                     role = "cre", 
@@ -11,7 +11,7 @@ Authors@R: c(person("Ege", "Ulgen",
                     comment = c(ORCID = "0000-0001-5980-8002")))
 Maintainer: Ege Ulgen <egeulgen@gmail.com>
 Description: This is a data-only package, containing data needed to run the CRAN 
-    package pathfindR, including protein-protein interaction network data, data 
+    package 'pathfindR', including protein-protein interaction network data, data 
     related to gene sets and example input/output data.
 License: MIT + file LICENSE
 Encoding: UTF-8

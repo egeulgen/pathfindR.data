@@ -1,7 +1,4 @@
-
-# pathfindR.data: Data Package for pathfindR: Enrichment Analysis Utilizing Active Subnetworks
-
-# <img src="https://github.com/egeulgen/pathfindR/blob/master/inst/extdata/logo.png?raw=true" align="left" height=150/> pathfindR: An R Package for Enrichment Analysis Utilizing Active Subnetworks
+# <img src="https://github.com/egeulgen/pathfindR/blob/master/inst/extdata/logo.png?raw=true" align="left" height=150/> pathfindR.data: Data Package for pathfindR: Enrichment Analysis Utilizing Active Subnetworks
 
 # Overview
 

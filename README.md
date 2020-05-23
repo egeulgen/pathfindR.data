@@ -1,5 +1,12 @@
 # <img src="https://github.com/egeulgen/pathfindR/blob/master/inst/extdata/logo.png?raw=true" align="left" height=150/> pathfindR.data: Data Package for pathfindR: Enrichment Analysis Utilizing Active Subnetworks
 
+<!-- badges: start -->
+[![CRAN
+version](http://www.r-pkg.org/badges/version-ago/pathfindR.data)](https://cran.r-project.org/package=pathfindR.data)
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- badges: end -->
+
 # Overview
 
 `pathfindR.data` is the data package for [`pathfindR`](https://github.com/egeulgen/pathfindR),

@@ -10,12 +10,12 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 # Overview
 
 `pathfindR.data` is the data package for [`pathfindR`](https://github.com/egeulgen/pathfindR),
-containing data needed to use pathfindR, including protein-protein interaction 
-network data, gene sets-related data and example input/output data.
+containing data needed to use `pathfindR`, including protein-protein interaction 
+network data, data related to gene sets and example input/output data.
 
 # pathfindR
 
-`pathfindR` is a tool for enrichment analysis via active subnetworks.
+[`pathfindR`](https://github.com/egeulgen/pathfindR) is a tool for enrichment analysis via active subnetworks.
 The package also offers functionalities to cluster the enriched terms
 and identify representative terms in each cluster, to score the enriched
 terms per sample and to visualize analysis results.
@@ -26,6 +26,5 @@ Identification of Enriched Pathways in Omics Data Through Active
 Subnetworks. Front. Genet. <https://doi.org/10.3389/fgene.2019.00858>*
 
 For detailed documentation, see [pathfindR’s
-website](https://egeulgen.github.io/pathfindR/) or [the pathfindR
-wiki](https://github.com/egeulgen/pathfindR/wiki).
+website](https://egeulgen.github.io/pathfindR/).
 

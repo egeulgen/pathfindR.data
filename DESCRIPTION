@@ -2,7 +2,7 @@ Package: pathfindR.data
 Title: Data Package for 'pathfindR'
 Version: 1.0.0
 Authors@R: c(person("Ege", "Ulgen",
-                    role = "cre", 
+                    role = c("cre", "cph"), 
                     email = "egeulgen@gmail.com",
                     comment = c(ORCID = "0000-0003-2090-3621")),
              person("Ozan", "Ozisik",

@@ -242,18 +242,18 @@
 #'
 #' A list containing the genes involved in each human BioCarta pathway. Each
 #' element is a vector of gene symbols located in the given pathway.
-#' \emph{Generated on Oct 12, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format list containing 314 vectors of gene symbols. Each vector corresponds
+#' @format list containing 289 vectors of gene symbols. Each vector corresponds
 #'   to a gene set.
 "biocarta_genes"
 
 #' BioCarta Pathways - Descriptions
 #'
 #' A named vector containing the descriptions for each human BioCarta pathway.
-#' \emph{Generated on Oct 12, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format named vector containing 314 character values, the descriptions for the given
+#' @format named vector containing 289 character values, the descriptions for the given
 #'   pathways.
 "biocarta_descriptions"
 

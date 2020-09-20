@@ -90,9 +90,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis
 #' differential-expression data frame \code{\link{RA_input}}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Nov 1, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format A data frame with 95 rows and 8 columns:
+#' @format A data frame with 104 rows and 8 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -116,13 +116,10 @@
 #' enrichment results \code{\link{RA_output}}. The clustering and partitioning
 #' function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 #' (i.e. hierarchical clustering was performed and the agglomeration method
-#' was "average"). The optimal number of clusters (yielding the highest average
-#' silhouette width) was determined to be 15 and the enriched terms with the
-#' lowest p values in each cluster were assigned as representative terms
-#' for those clusters.
-#' \emph{Generated on Nov 1, 2019.}
+#' was "average").
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format A data frame with 95 rows and 10 columns:
+#' @format A data frame with 104 rows and 10 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

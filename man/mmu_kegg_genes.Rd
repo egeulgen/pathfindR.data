@@ -5,7 +5,7 @@
 \alias{mmu_kegg_genes}
 \title{Mus Musculus KEGG Pathways - Gene Sets}
 \format{
-list containing 323 vectors of gene symbols. Each vector corresponds
+list containing 324 vectors of gene symbols. Each vector corresponds
 to a pathway.
 }
 \usage{
@@ -16,6 +16,6 @@ A list containing the genes involved in each Mus musculus KEGG pathway. Each ele
 is a vector of gene symbols located in the given pathway. Names correspond to
 the KEGG ID of the pathway. Pathways that did not contain any genes were
 discarded.
-\emph{Generated on Oct 28, 2019.}
+\emph{Generated on Sep 20, 2020.}
 }
 \keyword{datasets}

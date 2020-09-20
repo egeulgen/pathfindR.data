@@ -200,9 +200,9 @@
 #' is a vector of gene symbols located in the given pathway. Names correspond to
 #' the KEGG ID of the pathway. Pathways that did not contain any genes were
 #' discarded.
-#' \emph{Generated on Oct 28, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format list containing 323 vectors of gene symbols. Each vector corresponds
+#' @format list containing 324 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "mmu_kegg_genes"
 
@@ -211,9 +211,9 @@
 #' A named vector containing the descriptions for each Mus musculus KEGG pathway. Names of the
 #' vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 #' any genes were discarded.
-#' \emph{Generated on Oct 28, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format named vector containing 323 character values, the descriptions for the given
+#' @format named vector containing 324 character values, the descriptions for the given
 #'   pathways.
 "mmu_kegg_descriptions"
 

@@ -5,7 +5,7 @@
 \alias{RA_comparison_output}
 \title{Second Example Output for the pathfindR Enrichment Workflow}
 \format{
-A data frame with 35 rows and 8 columns:
+A data frame with 37 rows and 8 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
@@ -25,7 +25,7 @@ The data frame containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 \code{run_pathfindR} was performed using the default settings.
-\emph{Generated on Feb 9, 2020.}
+\emph{Generated on Sep 20, 2020.}
 }
 \seealso{
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame

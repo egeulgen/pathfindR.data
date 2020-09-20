@@ -5,7 +5,7 @@
 \alias{intact_adj_list}
 \title{IntAct PIN Adjacency List}
 \format{
-list containing 15057 vectors. Each vector is the set of gene symbols
+list containing 15079 vectors. Each vector is the set of gene symbols
 of interactors B for each interactor A.
 }
 \usage{
@@ -14,7 +14,8 @@ intact_adj_list
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
 in the IntAct protein-protein interaction network (The designations
-"interactor A" and "interactor B" are arbitrary).
-\emph{Generated on Oct 19, 2019.}
+"interactor A" and "interactor B" are arbitrary). There are 262093 interations
+in the IntAct PIN.
+\emph{Generated on Sep 20, 2020.}
 }
 \keyword{datasets}

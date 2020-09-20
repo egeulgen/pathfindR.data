@@ -3,7 +3,7 @@
 \docType{data}
 \name{cell_markers_gsets}
 \alias{cell_markers_gsets}
-\title{Cell Markers - Gene Sets}
+\title{Human Cell Markers - Gene Sets}
 \format{
 list containing 496 vectors. Each vector corresponds to a cell marker
 gene set for a given human cell type.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{cell_markers_descriptions}
 \alias{cell_markers_descriptions}
-\title{Cell Markers - Descriptions}
+\title{Human Cell Markers - Descriptions}
 \format{
 named vector containing 496 character values, the descriptions for
 the given human cell types.

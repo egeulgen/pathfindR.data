@@ -257,7 +257,7 @@
 #'   pathways.
 "biocarta_descriptions"
 
-#' Cell Markers - Gene Sets
+#' Human Cell Markers - Gene Sets
 #'
 #' A list containing the sets of genes that are cell markers of different cell
 #' types from different tissues in human. Each element is a vector of cell marker
@@ -271,7 +271,7 @@
 #' gene set for a given human cell type.
 "cell_markers_gsets"
 
-#' Cell Markers - Descriptions
+#' Human Cell Markers - Descriptions
 #'
 #' A named vector containing descriptions of different cell types from different
 #' tissues in human. Names of the vectors are Cell Ontology IDs (if available)

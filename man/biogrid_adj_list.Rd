@@ -14,7 +14,7 @@ biogrid_adj_list
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
 in the BioGRID protein-protein interaction network (The designations
-"interactor A" and "interactor B" are arbitrary). There is a total of 463119
+"interactor A" and "interactor B" are arbitrary). There are 463119
 interactions in the BioGRID PIN.
 \emph{Generated on Sep 20, 2020.}
 }

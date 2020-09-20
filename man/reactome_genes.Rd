@@ -5,7 +5,7 @@
 \alias{reactome_genes}
 \title{Reactome Pathways - Gene Sets}
 \format{
-list containing 2263 vectors of gene symbols. Each vector corresponds
+list containing 2400 vectors of gene symbols. Each vector corresponds
 to a pathway.
 }
 \usage{
@@ -15,6 +15,6 @@ reactome_genes
 A list containing the genes involved in each human Reactome pathway. Each
 element is a vector of gene symbols located in the given pathway. Names
 correspond to the Reactome ID of the pathway.
-\emph{Generated on Oct 12, 2019.}
+\emph{Generated on Sep 20, 2020.}
 }
 \keyword{datasets}

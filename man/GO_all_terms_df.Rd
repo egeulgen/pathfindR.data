@@ -5,7 +5,7 @@
 \alias{GO_all_terms_df}
 \title{Gene Ontology - All Gene Ontology Descriptions}
 \format{
-data frame containing 14586 rows and 3 columns. Columns are \describe{
+data frame containing 14906 rows and 3 columns. Columns are \describe{
 \item{GO_ID}{ID of the GO term}
 \item{GO_term}{Description the GO term}
 \item{Category}{Category of the GO term (i.e., "Component", "Function" or "Process")}
@@ -16,6 +16,6 @@ GO_all_terms_df
 }
 \description{
 A data frame containing descriptions of Gene Ontology terms (for all categories)
-\emph{Generated on Sep 30, 2019.}
+\emph{Generated on Sep 20, 2020.}
 }
 \keyword{datasets}

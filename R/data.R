@@ -289,18 +289,18 @@
 #'
 #' A list containing the genes involved in each GO ontology term. Each
 #' element is a vector of gene symbols located in the given gene set.
-#' \emph{Generated on Sep 30, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format list containing 14586 vectors of gene symbols. Each vector corresponds
+#' @format list containing 14906 vectors of gene symbols. Each vector corresponds
 #'   to a gene set.
 "go_all_genes"
 
 #' Gene Ontology - All Gene Ontology Descriptions
 #'
 #' A data frame containing descriptions of Gene Ontology terms (for all categories)
-#' \emph{Generated on Sep 30, 2019.}
+#' \emph{Generated on Sep 20, 2020.}
 #'
-#' @format data frame containing 14586 rows and 3 columns. Columns are \describe{
+#' @format data frame containing 14906 rows and 3 columns. Columns are \describe{
 #' \item{GO_ID}{ID of the GO term}
 #' \item{GO_term}{Description the GO term}
 #' \item{Category}{Category of the GO term (i.e., "Component", "Function" or "Process")}

@@ -24,7 +24,7 @@ RA_clustered
 }
 \description{
 A dataset containing the results of pathfindR's clustering and
-partitioning  workflow performed on the rheumatoid arthritis
+partitioning workflow performed on the rheumatoid arthritis
 enrichment results \code{\link{RA_output}}. The clustering and partitioning
 function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 (i.e. hierarchical clustering was performed and the agglomeration method

@@ -11,9 +11,9 @@ There was only 1 NOTE:
 unable to verify current time
 
   This NOTE occurs because the resource R CMD check uses 
-  (http://worldclockapi.com/) is currently not available. I fixed an issue that
-  prevented "intro_vignette.Rmd" in pathfindR to be built.
+  (http://worldclockapi.com/) is currently not available.
 
 ## Downstream dependencies
 I have also run R CMD check on pathfindR (which I maintain as well), the only 
-downstream dependency of pathfindR.data. It passed the check.
+downstream dependency of pathfindR.data. It passed the check. I fixed an issue 
+that prevented "intro_vignette.Rmd" in pathfindR to be built.

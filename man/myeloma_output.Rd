@@ -5,12 +5,13 @@
 \alias{myeloma_output}
 \title{Example Output for Myeloma Analysis (Mus Musculus)}
 \format{
-A data frame with 26 rows and 8 columns:
+A data frame with 18 rows and 9 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
 \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+\item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}
 \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}
@@ -24,7 +25,7 @@ myeloma_output
 A dataset containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the Mus musculus myeloma
 differential expression dataset \code{\link{myeloma_input}}.
-\emph{Generated on Sep 20, 2020.}
+\emph{Generated on Ot 5, 2020.}
 }
 \seealso{
 \code{\link{myeloma_input}} for the example mmu input.

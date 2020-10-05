@@ -1,3 +1,12 @@
+# pathfindR.data 1.1.1.9000
+
+## Major changes
+
+- Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output` after addition of the 'support' column
+
+
+***
+
 # pathfindR.data 1.1.0
 
 ## Major changes

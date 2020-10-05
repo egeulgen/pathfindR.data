@@ -5,12 +5,13 @@
 \alias{RA_clustered}
 \title{Example Output for the pathfindR Clustering Workflow - Rheumatoid Arthritis}
 \format{
-A data frame with 104 rows and 10 columns:
+A data frame with 95 rows and 11 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
 \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+\item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}s
 \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}
@@ -29,7 +30,7 @@ enrichment results \code{\link{RA_output}}. The clustering and partitioning
 function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 (i.e. hierarchical clustering was performed and the agglomeration method
 was "average").
-\emph{Generated on Sep 20, 2020.}
+\emph{Generated on Oct 5, 2020.}
 }
 \seealso{
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame

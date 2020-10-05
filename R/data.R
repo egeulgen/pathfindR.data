@@ -26,14 +26,15 @@
 #' A dataset containing the results of pathfindR's active-subnetwork-oriented
 #' enrichment workflow performed on the Mus musculus myeloma
 #' differential expression dataset \code{\link{myeloma_input}}.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Ot 5, 2020.}
 #'
-#' @format A data frame with 26 rows and 8 columns:
+#' @format A data frame with 18 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
 #'   \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 #'   \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+#'   \item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}
 #'   \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 #'   \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 #'   \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}
@@ -90,21 +91,22 @@
 #' enrichment workflow performed on the rheumatoid arthritis
 #' differential-expression data frame \code{\link{RA_input}}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Oct 5, 2020.}
 #'
-#' @format A data frame with 104 rows and 8 columns:
+#' @format A data frame with 95 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
 #'   \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 #'   \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+#'   \item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}
 #'   \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 #'   \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 #'   \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}
 #'   \item{Down_regulated}{the down-regulated genes in the input involved in the given term, comma-separated}
 #' }
 #' @seealso \code{\link{RA_input}}  for the RA differentially-expressed genes data frame
-#' \code{\link{RA_clustered}} for the RA example pathfindR clustering output
+#' \code{\link{RA_clustered}} for the RA example pathfindR clustering outputs
 #' \code{\link{RA_exp_mat}} for the RA differentially-expressed genes expression matrix
 #' \code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis
 "RA_output"
@@ -117,14 +119,15 @@
 #' function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 #' (i.e. hierarchical clustering was performed and the agglomeration method
 #' was "average").
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Oct 5, 2020.}
 #'
-#' @format A data frame with 104 rows and 10 columns:
+#' @format A data frame with 95 rows and 11 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
 #'   \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 #'   \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+#'   \item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}s
 #'   \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 #'   \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 #'   \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}
@@ -146,14 +149,15 @@
 #' enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 #' \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Oct 5, 2020.}
 #'
-#' @format A data frame with 37 rows and 8 columns:
+#' @format A data frame with 39 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
 #'   \item{Fold_Enrichment}{Fold enrichment value for the enriched term}
 #'   \item{occurrence}{the number of iterations that the given term was found to enriched over all iterations}
+#'   \item{support}{the median support (proportion of active subnetworks leading to enrichment within an iteration) over all iterations}
 #'   \item{lowest_p}{the lowest adjusted-p value of the given term over all iterations}
 #'   \item{highest_p}{the highest adjusted-p value of the given term over all iterations}
 #'   \item{Up_regulated}{the up-regulated genes in the input involved in the given term, comma-separated}

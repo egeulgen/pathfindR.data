@@ -26,7 +26,7 @@ The data frame containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the rheumatoid arthritis
 differential-expression data frame \code{\link{RA_input}}. Analysis via
 \code{run_pathfindR} was performed using the default settings.
-\emph{Generated on Oct 5, 2020.}
+\emph{Generated on Oct 19, 2020.}
 }
 \seealso{
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame

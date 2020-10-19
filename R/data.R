@@ -26,7 +26,7 @@
 #' A dataset containing the results of pathfindR's active-subnetwork-oriented
 #' enrichment workflow performed on the Mus musculus myeloma
 #' differential expression dataset \code{\link{myeloma_input}}.
-#' \emph{Generated on Ot 5, 2020.}
+#' \emph{Generated on Oct 19, 2020.}
 #'
 #' @format A data frame with 18 rows and 9 columns:
 #' \describe{
@@ -91,7 +91,7 @@
 #' enrichment workflow performed on the rheumatoid arthritis
 #' differential-expression data frame \code{\link{RA_input}}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Oct 5, 2020.}
+#' \emph{Generated on Oct 19, 2020.}
 #'
 #' @format A data frame with 95 rows and 9 columns:
 #' \describe{
@@ -119,7 +119,7 @@
 #' function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 #' (i.e. hierarchical clustering was performed and the agglomeration method
 #' was "average").
-#' \emph{Generated on Oct 5, 2020.}
+#' \emph{Generated on Oct 19, 2020.}
 #'
 #' @format A data frame with 95 rows and 11 columns:
 #' \describe{
@@ -149,9 +149,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 #' \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Oct 5, 2020.}
+#' \emph{Generated on Oct 19, 2020.}
 #'
-#' @format A data frame with 39 rows and 9 columns:
+#' @format A data frame with 35 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

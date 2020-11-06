@@ -1,3 +1,17 @@
+#' Table of Data for pathfindR
+#'
+#' Data frame containing all the data for pathfindR along with descriptions and
+#' last update dates.
+#'
+#' @format A data frame with 30 rows and 4 columns:
+#' \describe{
+#'   \item{Category}{Category of the data}
+#'   \item{Name}{Name of the data}
+#'   \item{Description}{Description of the data}
+#'   \item{Last_Update}{Last update date}
+#' }
+"pathfindR.data_updates"
+
 #' Example Input for Myeloma Analysis (Mus Musculus)
 #'
 #' A dataset containing the differentially-expressed genes and adjusted p-values

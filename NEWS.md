@@ -1,10 +1,10 @@
-# pathfindR.data 1.1.1.9002
+# pathfindR.data 1.1.1.9003
 
 ## Major changes
 
 - Added the data frame of data `pathfindR.data_updates`, containing all the data for pathfindR along with descriptions and last update dates
 - Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output` after addition of the 'support' column
-
+- Updated BioGRID PIN so that it does not contain self-interactions
 
 ***
 

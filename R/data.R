@@ -348,7 +348,7 @@
 #' in the BioGRID protein-protein interaction network (The designations
 #' "interactor A" and "interactor B" are arbitrary). There are 463119
 #' interactions in the BioGRID PIN.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Nov 6, 2020.}
 #'
 #' @format list containing 20192 vectors. Each vector is the set of gene symbols
 #' of interactors B for each interactor A.

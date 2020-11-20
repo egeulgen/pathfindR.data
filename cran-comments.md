@@ -1,19 +1,15 @@
 ## Test environments
-* local OS X 10.15.4, R 4.0.2
+* local OS X 11.0.1, R 4.0.3
 * Ubuntu 16.04.6 LTS (on Travis-CI), R 4.0.2
 * win-builder (devel and release)
 
 ## R CMD check results
-There were no ERRORs, WARNINGs. 
+There were no ERRORs, WARNINGs or NOTEs. 
 
-There was only 1 NOTE:
-* checking for future file timestamps ... NOTE
-unable to verify current time
-
-  This NOTE occurs because the resource R CMD check uses 
-  (http://worldclockapi.com/) is currently not available.
+  This submission is for updating data related to pathfindR after changes to 
+  pathfindR (to be submitted as v1.6.0).
 
 ## Downstream dependencies
-I have also run R CMD check on pathfindR (which I maintain as well), the only 
-downstream dependency of pathfindR.data. It passed the check. I fixed an issue 
-that prevented "intro_vignette.Rmd" in pathfindR to be built.
+I have also run R CMD check on pathfindR 1.6.0 (which I maintain as well), the only 
+downstream dependency of pathfindR.data. It passed the check. The current pathfindR 
+v1.5.1 does not work with pathfindR.data v1.1.1.

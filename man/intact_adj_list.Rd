@@ -14,7 +14,7 @@ intact_adj_list
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
 in the IntAct protein-protein interaction network (The designations
-"interactor A" and "interactor B" are arbitrary). There are 262093 interations
+"interactor A" and "interactor B" are arbitrary). There are 262093 interactions
 in the IntAct PIN.
 \emph{Generated on Sep 20, 2020.}
 }

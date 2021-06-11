@@ -1,3 +1,11 @@
+# pathfindR.data (development version)
+
+## Major changes
+- Updated `kegg_genes` and `kegg_descriptions`
+
+## Minor changes and bug fixes
+
+
 # pathfindR.data 1.1.1
 
 ## Major changes

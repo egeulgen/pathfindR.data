@@ -1,7 +1,8 @@
 # pathfindR.data (development version)
 
 ## Major changes
-- Updated `kegg_genes` and `kegg_descriptions`
+- Updated `kegg_genes` and `kegg_descriptions` so that there are no duplicated term descriptions
+- Updated `mmu_kegg_genes` and `mmu_kegg_descriptions` so that there are no duplicated term descriptions
 
 ## Minor changes and bug fixes
 

@@ -5,7 +5,7 @@
 \alias{kegg_descriptions}
 \title{KEGG Pathways - Descriptions}
 \format{
-named vector containing 324 character values, the descriptions for the given
+named vector containing 334 character values, the descriptions for the given
 pathways.
 }
 \usage{

@@ -5,6 +5,7 @@
 - Updated mmu KEGG pathways gene set objects `mmu_kegg_genes` and `mmu_kegg_descriptions`
 - Updated Reactome gene set objects `reactome_genes` and `reactome_descriptions`
 - Updated BioCarta gene set objects `biocarta_genes` and `biocarta_descriptions`
+- Updated GO gene set objects `go_all_genes` and `GO_all_terms_df`
 - Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output`
 
 ## Minor changes and bug fixes

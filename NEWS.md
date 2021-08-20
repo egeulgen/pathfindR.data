@@ -12,6 +12,7 @@
 - Updated the mmu STRING PIN adjacency list `mmu_string_adj_list`
 - Updated the GeneMania PIN adjacency list `genemania_adj_list`
 - Updated the KEGG adjacency list `kegg_adj_list`
+- Updated example custom enrichment results data frame `custom_results`
 
 ## Minor changes and bug fixes
 - Updated `kegg_genes` and `kegg_descriptions` so that there are no duplicated term descriptions

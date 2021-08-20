@@ -42,7 +42,7 @@
 #' differential expression dataset \code{\link{myeloma_input}}.
 #' \emph{Generated on Oct 19, 2020.}
 #'
-#' @format A data frame with 18 rows and 9 columns:
+#' @format A data frame with 20 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

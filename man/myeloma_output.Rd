@@ -5,7 +5,7 @@
 \alias{myeloma_output}
 \title{Example Output for Myeloma Analysis (Mus Musculus)}
 \format{
-A data frame with 18 rows and 9 columns:
+A data frame with 20 rows and 9 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}

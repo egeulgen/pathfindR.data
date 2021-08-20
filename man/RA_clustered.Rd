@@ -5,7 +5,7 @@
 \alias{RA_clustered}
 \title{Example Output for the pathfindR Clustering Workflow - Rheumatoid Arthritis}
 \format{
-A data frame with 95 rows and 11 columns:
+A data frame with 113 rows and 11 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
@@ -30,11 +30,10 @@ enrichment results \code{\link{RA_output}}. The clustering and partitioning
 function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 (i.e. hierarchical clustering was performed and the agglomeration method
 was "average").
-\emph{Generated on Oct 19, 2020.}
+\emph{Generated on Aug 20, 2021.}
 }
 \seealso{
 \code{\link{RA_input}}  for the RA differentially-expressed genes data frame
-\code{\link{RA_clustered}} for the RA example pathfindR clustering output
 \code{\link{RA_exp_mat}} for the RA differentially-expressed genes expression matrix
 \code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis
 \code{\link{RA_output}} for the RA example pathfindR enrichment output

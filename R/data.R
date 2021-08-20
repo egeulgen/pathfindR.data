@@ -105,9 +105,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis
 #' differential-expression data frame \code{\link{RA_input}}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Oct 19, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format A data frame with 95 rows and 9 columns:
+#' @format A data frame with 113 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -133,9 +133,9 @@
 #' function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 #' (i.e. hierarchical clustering was performed and the agglomeration method
 #' was "average").
-#' \emph{Generated on Oct 19, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format A data frame with 95 rows and 11 columns:
+#' @format A data frame with 113 rows and 11 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -150,7 +150,6 @@
 #'   \item{Status}{whether the enriched term is the "Representative" term in its cluster or only a "Member"}
 #' }
 #' @seealso \code{\link{RA_input}}  for the RA differentially-expressed genes data frame
-#' \code{\link{RA_clustered}} for the RA example pathfindR clustering output
 #' \code{\link{RA_exp_mat}} for the RA differentially-expressed genes expression matrix
 #' \code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis
 #' \code{\link{RA_output}} for the RA example pathfindR enrichment output
@@ -163,9 +162,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 #' \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Oct 19, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format A data frame with 35 rows and 9 columns:
+#' @format A data frame with 50 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

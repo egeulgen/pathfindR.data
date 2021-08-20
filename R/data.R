@@ -246,7 +246,7 @@
 #'
 #' A named vector containing the descriptions for each human Reactome pathway. Names of the
 #' vector correspond to the Reactome ID of the pathway.
-#' \emph{Generated on SAug 20, 2021.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
 #' @format named vector containing 2504 character values, the descriptions for the given
 #'   pathways.
@@ -256,18 +256,18 @@
 #'
 #' A list containing the genes involved in each human BioCarta pathway. Each
 #' element is a vector of gene symbols located in the given pathway.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format list containing 289 vectors of gene symbols. Each vector corresponds
+#' @format list containing 292 vectors of gene symbols. Each vector corresponds
 #'   to a gene set.
 "biocarta_genes"
 
 #' BioCarta Pathways - Descriptions
 #'
 #' A named vector containing the descriptions for each human BioCarta pathway.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format named vector containing 289 character values, the descriptions for the given
+#' @format named vector containing 292 character values, the descriptions for the given
 #'   pathways.
 "biocarta_descriptions"
 

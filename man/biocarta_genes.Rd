@@ -5,7 +5,7 @@
 \alias{biocarta_genes}
 \title{BioCarta Pathways - Gene Sets}
 \format{
-list containing 289 vectors of gene symbols. Each vector corresponds
+list containing 292 vectors of gene symbols. Each vector corresponds
 to a gene set.
 }
 \usage{
@@ -14,6 +14,6 @@ biocarta_genes
 \description{
 A list containing the genes involved in each human BioCarta pathway. Each
 element is a vector of gene symbols located in the given pathway.
-\emph{Generated on Sep 20, 2020.}
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

@@ -14,6 +14,6 @@ reactome_descriptions
 \description{
 A named vector containing the descriptions for each human Reactome pathway. Names of the
 vector correspond to the Reactome ID of the pathway.
-\emph{Generated on SAug 20, 2021.}
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

@@ -357,10 +357,11 @@
 #'
 #' An adjacency list of vectors containing interactors B for each interactor A
 #' in the GeneMania protein-protein interaction network (The designations
-#' "interactor A" and "interactor B" are arbitrary).
-#' \emph{Generated on Oct 12, 2019.}
+#' "interactor A" and "interactor B" are arbitrary). There are 60644 interactions
+#' in the GeneMania PIN.
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format list containing 12345 vectors. Each vector is the set of gene symbols
+#' @format list containing 11584 vectors. Each vector is the set of gene symbols
 #' of interactors B for each interactor A.
 "genemania_adj_list"
 

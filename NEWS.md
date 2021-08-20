@@ -9,6 +9,7 @@
 - Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output`
 - Updated the BioGRID PIN adjacency list `biogrid_adj_list`
 - Updated the STRING PIN adjacency list `string_adj_list`
+- Updated the mmu STRING PIN adjacency list `mmu_string_adj_list`
 - Updated the GeneMania PIN adjacency list `genemania_adj_list`
 - Updated the KEGG adjacency list `kegg_adj_list`
 

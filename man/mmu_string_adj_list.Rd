@@ -5,7 +5,7 @@
 \alias{mmu_string_adj_list}
 \title{Mus musculus STRING PIN Adjacency List}
 \format{
-list containing 11217 vectors. Each vector is the set of gene symbols
+list containing 10748 vectors. Each vector is the set of gene symbols
 of interactors B for each interactor A.
 }
 \usage{
@@ -13,9 +13,9 @@ mmu_string_adj_list
 }
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
-in the Mus musculus STRING protein-protein interaction network (The designations
+in the Mus musculus STRING protein-protein interaction network v11.5 (The designations
 "interactor A" and "interactor B" are arbitrary). Only interactions with a combined
-score >= 800 were kept.
-\emph{Generated on Nov 1, 2019.}
+score >= 800 were kept. There are 136071 interactions in the mmu STRING PIN.
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

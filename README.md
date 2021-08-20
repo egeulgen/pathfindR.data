@@ -3,7 +3,7 @@
 <!-- badges: start -->
 [![CRAN
 version](http://www.r-pkg.org/badges/version-ago/pathfindR.data)](https://cran.r-project.org/package=pathfindR.data)
-[![Travis build status](https://travis-ci.com/egeulgen/pathfindR.data.svg?branch=master)](https://travis-ci.com/egeulgen/pathfindR.data)
+[![Travis build status](https://travis-ci.com/egeulgen/pathfindR.data.svg?branch=master)](https://app.travis-ci.com/github/egeulgen/pathfindR.data)
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->

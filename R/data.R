@@ -236,9 +236,9 @@
 #' A list containing the genes involved in each human Reactome pathway. Each
 #' element is a vector of gene symbols located in the given pathway. Names
 #' correspond to the Reactome ID of the pathway.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on Aug 20, 2021.}
 #'
-#' @format list containing 2400 vectors of gene symbols. Each vector corresponds
+#' @format list containing 2504 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "reactome_genes"
 
@@ -246,9 +246,9 @@
 #'
 #' A named vector containing the descriptions for each human Reactome pathway. Names of the
 #' vector correspond to the Reactome ID of the pathway.
-#' \emph{Generated on Sep 20, 2020.}
+#' \emph{Generated on SAug 20, 2021.}
 #'
-#' @format named vector containing 2400 character values, the descriptions for the given
+#' @format named vector containing 2504 character values, the descriptions for the given
 #'   pathways.
 "reactome_descriptions"
 

@@ -3,6 +3,7 @@
 ## Major changes
 - Updated (hsa) KEGG pathways gene set objects `kegg_genes` and `kegg_descriptions`
 - Updated mmu KEGG pathways gene set objects `mmu_kegg_genes` and `mmu_kegg_descriptions`
+- Updated Reactome gene set objects `reactome_genes` and `reactome_descriptions`
 - Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output`
 
 ## Minor changes and bug fixes

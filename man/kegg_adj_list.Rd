@@ -5,7 +5,7 @@
 \alias{kegg_adj_list}
 \title{KEGG PIN Adjacency List}
 \format{
-list containing 4736 vectors. Each vector is the set of gene symbols
+list containing 4710 vectors. Each vector is the set of gene symbols
 of interactors B for each interactor A.
 }
 \usage{
@@ -14,8 +14,8 @@ kegg_adj_list
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
 in the KEGG protein-protein interaction network (The designations
-"interactor A" and "interactor B" are arbitrary). There are 55519 interactions
+"interactor A" and "interactor B" are arbitrary). There are 56850 interactions
 in the KEGG PIN.
-\emph{Generated on Sep 20, 2020.}
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

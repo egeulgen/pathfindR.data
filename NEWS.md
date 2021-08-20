@@ -10,6 +10,7 @@
 - Updated the BioGRID PIN adjacency list `biogrid_adj_list`
 - Updated the STRING PIN adjacency list `string_adj_list`
 - Updated the GeneMania PIN adjacency list `genemania_adj_list`
+- Updated the KEGG adjacency list `kegg_adj_list`
 
 ## Minor changes and bug fixes
 - Updated `kegg_genes` and `kegg_descriptions` so that there are no duplicated term descriptions

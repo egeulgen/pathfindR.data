@@ -5,7 +5,7 @@
 \alias{kegg_genes}
 \title{KEGG Pathways - Gene Sets}
 \format{
-list containing 334 vectors of gene symbols. Each vector corresponds
+list containing 335 vectors of gene symbols. Each vector corresponds
 to a pathway.
 }
 \usage{
@@ -16,6 +16,6 @@ A list containing the genes involved in each Homo sapiens KEGG pathway. Each ele
 is a vector of gene symbols located in the given pathway. Names correspond to
 the KEGG ID of the pathway. Pathways that did not contain any genes were
 discarded.
-\emph{Generated on June 11, 2021.}
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

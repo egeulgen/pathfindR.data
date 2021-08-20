@@ -1,10 +1,12 @@
 # pathfindR.data (development version)
 
 ## Major changes
-- Updated `kegg_genes` and `kegg_descriptions` so that there are no duplicated term descriptions
+- Updated (hsa) KEGG pathways gene set objects `kegg_genes` and `kegg_descriptions`
+- Updated mmu KEGG pathways gene set objects `mmu_kegg_genes` and `mmu_kegg_descriptions`
 - Updated example data `RA_output`, `RA_clustered`, `RA_comparison_output` and `myeloma_output`
 
 ## Minor changes and bug fixes
+- Updated `kegg_genes` and `kegg_descriptions` so that there are no duplicated term descriptions
 - Updated `mmu_kegg_genes` and `mmu_kegg_descriptions` so that there are no duplicated term descriptions
 
 # pathfindR.data 1.1.1

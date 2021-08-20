@@ -5,7 +5,7 @@
 \alias{biogrid_adj_list}
 \title{BioGRID PIN Adjacency List}
 \format{
-list containing 20192 vectors. Each vector is the set of gene symbols
+list containing 18237 vectors. Each vector is the set of gene symbols
 of interactors B for each interactor A.
 }
 \usage{
@@ -14,8 +14,8 @@ biogrid_adj_list
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
 in the BioGRID protein-protein interaction network (The designations
-"interactor A" and "interactor B" are arbitrary). There are 463119
+"interactor A" and "interactor B" are arbitrary). There are 599271
 interactions in the BioGRID PIN.
-\emph{Generated on Nov 6, 2020.}
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

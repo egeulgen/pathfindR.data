@@ -5,7 +5,7 @@
 \alias{string_adj_list}
 \title{STRING PIN Adjacency List}
 \format{
-list containing 11934 vectors. Each vector is the set of gene symbols
+list containing 11369 vectors. Each vector is the set of gene symbols
 of interactors B for each interactor A.
 }
 \usage{
@@ -13,9 +13,9 @@ string_adj_list
 }
 \description{
 An adjacency list of vectors containing interactors B for each interactor A
-in the STRING protein-protein interaction network (The designations
+in the STRING protein-protein interaction network v11.5 (The designations
 "interactor A" and "interactor B" are arbitrary). Only interactions with a combined
-score >= 800 were kept.
-\emph{Generated on Oct 31, 2019.}
+score >= 800 were kept. There are 170221 interactions in the STRING PIN.
+\emph{Generated on Aug 20, 2021.}
 }
 \keyword{datasets}

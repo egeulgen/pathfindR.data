@@ -1,3 +1,5 @@
+# pathfindR.data (development version)
+
 # pathfindR.data 1.1.2
 
 ## Major changes

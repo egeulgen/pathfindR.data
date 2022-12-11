@@ -40,9 +40,9 @@
 #' A dataset containing the results of pathfindR's active-subnetwork-oriented
 #' enrichment workflow performed on the Mus musculus myeloma
 #' differential expression dataset \code{\link{myeloma_input}}.
-#' \emph{Generated on Oct 19, 2020.}
+#' \emph{Generated on Dec 11, 2022.}
 #'
-#' @format A data frame with 20 rows and 9 columns:
+#' @format A data frame with 26 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

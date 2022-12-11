@@ -162,9 +162,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 #' \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 11, 2022.}
 #'
-#' @format A data frame with 50 rows and 9 columns:
+#' @format A data frame with 53 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}

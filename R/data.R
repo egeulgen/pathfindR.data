@@ -190,9 +190,9 @@
 #' is a vector of gene symbols located in the given pathway. Names correspond to
 #' the KEGG ID of the pathway. Pathways that did not contain any genes were
 #' discarded.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format list containing 335 vectors of gene symbols. Each vector corresponds
+#' @format list containing 341 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "kegg_genes"
 
@@ -201,9 +201,9 @@
 #' A named vector containing the descriptions for each Homo sapiens KEGG pathway. Names of the
 #' vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 #' any genes were discarded.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format named vector containing 335 character values, the descriptions for the given
+#' @format named vector containing 341 character values, the descriptions for the given
 #'   pathways.
 "kegg_descriptions"
 
@@ -214,9 +214,9 @@
 #' is a vector of gene symbols located in the given pathway. Names correspond to
 #' the KEGG ID of the pathway. Pathways that did not contain any genes were
 #' discarded.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format list containing 331 vectors of gene symbols. Each vector corresponds
+#' @format list containing 336 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "mmu_kegg_genes"
 
@@ -225,9 +225,9 @@
 #' A named vector containing the descriptions for each Mus musculus KEGG pathway. Names of the
 #' vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 #' any genes were discarded.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format named vector containing 331 character values, the descriptions for the given
+#' @format named vector containing 336 character values, the descriptions for the given
 #'   pathways.
 "mmu_kegg_descriptions"
 
@@ -236,9 +236,9 @@
 #' A list containing the genes involved in each human Reactome pathway. Each
 #' element is a vector of gene symbols located in the given pathway. Names
 #' correspond to the Reactome ID of the pathway.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format list containing 2504 vectors of gene symbols. Each vector corresponds
+#' @format list containing 2593 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "reactome_genes"
 
@@ -246,9 +246,9 @@
 #'
 #' A named vector containing the descriptions for each human Reactome pathway. Names of the
 #' vector correspond to the Reactome ID of the pathway.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format named vector containing 2504 character values, the descriptions for the given
+#' @format named vector containing 2593 character values, the descriptions for the given
 #'   pathways.
 "reactome_descriptions"
 
@@ -256,7 +256,7 @@
 #'
 #' A list containing the genes involved in each human BioCarta pathway. Each
 #' element is a vector of gene symbols located in the given pathway.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
 #' @format list containing 292 vectors of gene symbols. Each vector corresponds
 #'   to a gene set.
@@ -265,7 +265,7 @@
 #' BioCarta Pathways - Descriptions
 #'
 #' A named vector containing the descriptions for each human BioCarta pathway.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
 #' @format named vector containing 292 character values, the descriptions for the given
 #'   pathways.
@@ -277,11 +277,12 @@
 #' types from different tissues in human. Each element is a vector of cell marker
 #' gene symbols for the given cell type. Names correspond to the Cell Ontology ID
 #' (if available) of the cell type. For more information, refer to the article:
-#' Zhang X, Lan Y, Xu J, et al. CellMarker: a manually curated resource of cell
-#' markers in human and mouse. Nucleic Acids Res. 2019;47(D1):D721-D728.
-#' \emph{Generated on Jan 16, 2020.}
+#' Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
+#' database of manually curated cell markers in human/mouse and web tools based
+#' on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format list containing 496 vectors. Each vector corresponds to a cell marker
+#' @format list containing 1986 vectors. Each vector corresponds to a cell marker
 #' gene set for a given human cell type.
 "cell_markers_gsets"
 
@@ -291,11 +292,12 @@
 #' tissues in human. Names of the vectors are Cell Ontology IDs (if available)
 #' of the cell types in the following format: "tissue type, cancer type, cell name"
 #' For more information, refer to the article:
-#' Zhang X, Lan Y, Xu J, et al. CellMarker: a manually curated resource of cell
-#' markers in human and mouse. Nucleic Acids Res. 2019;47(D1):D721-D728.
-#' \emph{Generated on Jan 16, 2020.}
+#' Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
+#' database of manually curated cell markers in human/mouse and web tools based
+#' on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format named vector containing 496 character values, the descriptions for
+#' @format named vector containing 1986 character values, the descriptions for
 #' the given human cell types.
 "cell_markers_descriptions"
 
@@ -303,24 +305,11 @@
 #'
 #' A list containing the genes involved in each GO ontology term. Each
 #' element is a vector of gene symbols located in the given gene set.
-#' \emph{Generated on Aug 20, 2021.}
+#' \emph{Generated on Dec 10, 2022.}
 #'
-#' @format list containing 15243 vectors of gene symbols. Each vector corresponds
-#'   to a gene set.
+#' @format list containing 15508 vectors of gene symbols. Each vector corresponds
+#'   to a GO gene set.
 "go_all_genes"
-
-#' Gene Ontology - All Gene Ontology Descriptions
-#'
-#' A data frame containing descriptions of Gene Ontology terms (for all categories)
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format data frame containing 15243 rows and 3 columns. Columns are \describe{
-#' \item{GO_ID}{ID of the GO term}
-#' \item{GO_term}{Description the GO term}
-#' \item{Category}{Category of the GO term (i.e., "Component", "Function" or "Process")}
-#' }
-"GO_all_terms_df"
-
 
 
 #' Custom Gene Set Enrichment Results
@@ -340,75 +329,3 @@
 #' @format list containing 112 vectors. Each vector is the set of genes for the
 #' given active subnetwork.
 "example_active_snws"
-
-#' BioGRID PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the BioGRID protein-protein interaction network (The designations
-#' "interactor A" and "interactor B" are arbitrary). There are 599271
-#' interactions in the BioGRID PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 18237 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"biogrid_adj_list"
-
-#' GeneMania PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the GeneMania protein-protein interaction network (The designations
-#' "interactor A" and "interactor B" are arbitrary). There are 60644 interactions
-#' in the GeneMania PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 11584 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"genemania_adj_list"
-
-#' KEGG PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the KEGG protein-protein interaction network (The designations
-#' "interactor A" and "interactor B" are arbitrary). There are 56850 interactions
-#' in the KEGG PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 4710 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"kegg_adj_list"
-
-#' IntAct PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the IntAct protein-protein interaction network (The designations
-#' "interactor A" and "interactor B" are arbitrary). There are 284398 interactions
-#' in the IntAct PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 15304 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"intact_adj_list"
-
-#' STRING PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the STRING protein-protein interaction network v11.5 (The designations
-#' "interactor A" and "interactor B" are arbitrary). Only interactions with a combined
-#' score >= 800 were kept. There are 170221 interactions in the STRING PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 11369 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"string_adj_list"
-
-#' Mus musculus STRING PIN Adjacency List
-#'
-#' An adjacency list of vectors containing interactors B for each interactor A
-#' in the Mus musculus STRING protein-protein interaction network v11.5 (The designations
-#' "interactor A" and "interactor B" are arbitrary). Only interactions with a combined
-#' score >= 800 were kept. There are 136071 interactions in the mmu STRING PIN.
-#' \emph{Generated on Aug 20, 2021.}
-#'
-#' @format list containing 10748 vectors. Each vector is the set of gene symbols
-#' of interactors B for each interactor A.
-"mmu_string_adj_list"

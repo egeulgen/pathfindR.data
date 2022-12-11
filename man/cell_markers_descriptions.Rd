@@ -5,7 +5,7 @@
 \alias{cell_markers_descriptions}
 \title{Human Cell Markers - Descriptions}
 \format{
-named vector containing 496 character values, the descriptions for
+named vector containing 1986 character values, the descriptions for
 the given human cell types.
 }
 \usage{
@@ -16,8 +16,9 @@ A named vector containing descriptions of different cell types from different
 tissues in human. Names of the vectors are Cell Ontology IDs (if available)
 of the cell types in the following format: "tissue type, cancer type, cell name"
 For more information, refer to the article:
-Zhang X, Lan Y, Xu J, et al. CellMarker: a manually curated resource of cell
-markers in human and mouse. Nucleic Acids Res. 2019;47(D1):D721-D728.
-\emph{Generated on Jan 16, 2020.}
+Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
+database of manually curated cell markers in human/mouse and web tools based
+on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
+\emph{Generated on Dec 10, 2022.}
 }
 \keyword{datasets}

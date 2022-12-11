@@ -5,7 +5,7 @@
 \alias{mmu_kegg_descriptions}
 \title{Mus Musculus KEGG Pathways - Descriptions}
 \format{
-named vector containing 331 character values, the descriptions for the given
+named vector containing 336 character values, the descriptions for the given
 pathways.
 }
 \usage{
@@ -15,6 +15,6 @@ mmu_kegg_descriptions
 A named vector containing the descriptions for each Mus musculus KEGG pathway. Names of the
 vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 any genes were discarded.
-\emph{Generated on Aug 20, 2021.}
+\emph{Generated on Dec 10, 2022.}
 }
 \keyword{datasets}

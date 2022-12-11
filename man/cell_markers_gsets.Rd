@@ -5,7 +5,7 @@
 \alias{cell_markers_gsets}
 \title{Human Cell Markers - Gene Sets}
 \format{
-list containing 496 vectors. Each vector corresponds to a cell marker
+list containing 1986 vectors. Each vector corresponds to a cell marker
 gene set for a given human cell type.
 }
 \usage{
@@ -16,8 +16,9 @@ A list containing the sets of genes that are cell markers of different cell
 types from different tissues in human. Each element is a vector of cell marker
 gene symbols for the given cell type. Names correspond to the Cell Ontology ID
 (if available) of the cell type. For more information, refer to the article:
-Zhang X, Lan Y, Xu J, et al. CellMarker: a manually curated resource of cell
-markers in human and mouse. Nucleic Acids Res. 2019;47(D1):D721-D728.
-\emph{Generated on Jan 16, 2020.}
+Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
+database of manually curated cell markers in human/mouse and web tools based
+on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
+\emph{Generated on Dec 10, 2022.}
 }
 \keyword{datasets}

@@ -1,5 +1,8 @@
 # pathfindR.data (development version)
 
+## Major changes
+- Renamed example input/output data for better organization and easier access
+
 # pathfindR.data 1.1.3
 
 ## Major changes

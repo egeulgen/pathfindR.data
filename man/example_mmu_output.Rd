@@ -3,7 +3,7 @@
 \docType{data}
 \name{example_mmu_output}
 \alias{example_mmu_output}
-\title{Example Output for Mus musculus - Myeloma AnalysiS}
+\title{Example Output for Mus musculus - Myeloma Analysis}
 \format{
 A data frame with 26 rows and 9 columns:
 \describe{

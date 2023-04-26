@@ -35,7 +35,7 @@
 #' \code{\link[pathfindR]{run_pathfindR}} for details on the pathfindR enrichment analysis.
 "example_mmu_input"
 
-#' Example Output for Mus musculus - Myeloma AnalysiS
+#' Example Output for Mus musculus - Myeloma Analysis
 #'
 #' A dataset containing the results of pathfindR's active-subnetwork-oriented
 #' enrichment workflow performed on the Mus musculus myeloma

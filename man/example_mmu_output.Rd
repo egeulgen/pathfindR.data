@@ -24,7 +24,7 @@ example_mmu_output
 \description{
 A dataset containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the Mus musculus myeloma
-differential expression dataset \code{\link{myeloma_input}}.
+differential expression dataset \code{\link{example_mmu_input}}.
 \emph{Generated on Dec 11, 2022.}
 }
 \seealso{

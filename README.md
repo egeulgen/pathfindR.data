@@ -5,7 +5,7 @@
 version](http://www.r-pkg.org/badges/version-ago/pathfindR.data)](https://cran.r-project.org/package=pathfindR.data)
 [![R-CMD-check](https://github.com/egeulgen/pathfindR.data/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/egeulgen/pathfindR.data/actions/workflows/R-CMD-check.yaml)
 [![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)
 <!-- badges: end -->
 
 # Overview

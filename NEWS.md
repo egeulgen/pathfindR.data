@@ -1,5 +1,19 @@
 # pathfindR.data (development version)
 
+## Major changes
+- Updated hsa KEGG pathways gene set objects `kegg_genes` and `kegg_descriptions`
+- Updated mmu KEGG pathways gene set objects `mmu_kegg_genes` and `mmu_kegg_descriptions`
+- Updated Reactome gene set objects `reactome_genes` and `reactome_descriptions`
+- Updated BioCarta gene set objects `biocarta_genes` and `biocarta_descriptions`
+- Updated GO gene set objects `go_all_genes` and `GO_all_terms_df`
+- Updated the BioGRID PIN adjacency list `biogrid_adj_list`
+- Updated the KEGG adjacency list `kegg_adj_list`
+- Updated the STRING adjacency lists `mmu_string_adj_list` and `string_adj_list`
+- Updated the example data: `example_custom_genesets_result`, `example_pathfindR_output`, `example_pathfindR_output_clustered`, `example_comparison_output` and `example_mmu_output`
+- Updated the `example_active_snws` data
+- updated the manifest data frame `pathfindR.data_updates`
+
+
 # pathfindR.data 2.0.0
 
 ## Major changes

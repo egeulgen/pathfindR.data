@@ -5,7 +5,7 @@
 \alias{example_active_snws}
 \title{Example Active Subnetworks}
 \format{
-list containing 112 vectors. Each vector is the set of genes for the
+list containing 150 vectors. Each vector is the set of genes for the
 given active subnetwork.
 }
 \usage{
@@ -14,6 +14,6 @@ example_active_snws
 \description{
 A list of vectors containing genes for each active subnetwork that passed
 the filtering step.
-\emph{Generated on Nov 1, 2019.}
+\emph{Generated on 27 Apr 2024.}
 }
 \keyword{datasets}

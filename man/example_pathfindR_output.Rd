@@ -5,7 +5,7 @@
 \alias{example_pathfindR_output}
 \title{Example Output for the pathfindR Enrichment Workflow - Rheumatoid Arthritis}
 \format{
-A data frame with 128 rows and 9 columns:
+A data frame with 121 rows and 9 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
@@ -26,7 +26,7 @@ The data frame containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the rheumatoid arthritis
 differential-expression data frame \code{\link{example_pathfindR_input}}. Analysis via
 \code{run_pathfindR} was performed using the default settings.
-\emph{Generated on Dec 11, 2022.}
+\emph{Generated on 27 Apr 2024.}
 }
 \seealso{
 \code{\link{example_pathfindR_input}}  for the RA differentially-expressed genes data frame

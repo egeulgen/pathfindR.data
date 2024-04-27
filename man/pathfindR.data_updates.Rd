@@ -5,11 +5,13 @@
 \alias{pathfindR.data_updates}
 \title{Table of Data for pathfindR}
 \format{
-A data frame with 30 rows and 4 columns:
+A data frame with 30 rows and 6 columns:
 \describe{
 \item{Category}{Category of the data}
 \item{Name}{Name of the data}
 \item{Description}{Description of the data}
+\item{Source}{Source of the data}
+\item{Version}{Version of the data (if applicable)}
 \item{Last_Update}{Last update date}
 }
 }

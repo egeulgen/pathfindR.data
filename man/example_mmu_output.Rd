@@ -5,7 +5,7 @@
 \alias{example_mmu_output}
 \title{Example Output for Mus musculus - Myeloma Analysis}
 \format{
-A data frame with 26 rows and 9 columns:
+A data frame with 34 rows and 9 columns:
 \describe{
 \item{ID}{ID of the enriched term}
 \item{Term_Description}{Description of the enriched term}
@@ -25,7 +25,7 @@ example_mmu_output
 A dataset containing the results of pathfindR's active-subnetwork-oriented
 enrichment workflow performed on the Mus musculus myeloma
 differential expression dataset \code{\link{example_mmu_input}}.
-\emph{Generated on Dec 11, 2022.}
+\emph{Generated on 27 Apr 2024.}
 }
 \seealso{
 \code{\link{example_mmu_input}} for the example mmu input.

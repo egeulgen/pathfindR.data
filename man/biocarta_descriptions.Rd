@@ -13,6 +13,6 @@ biocarta_descriptions
 }
 \description{
 A named vector containing the descriptions for each human BioCarta pathway.
-\emph{Generated on Dec 10, 2022.}
+\emph{Generated on 27 Apr 2024.}
 }
 \keyword{datasets}

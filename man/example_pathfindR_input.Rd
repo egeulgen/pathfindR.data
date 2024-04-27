@@ -25,7 +25,7 @@ dataset aimed to characterize gene expression profiles in the peripheral
 blood mononuclear cells of 18 rheumatoid arthritis (RA) patients versus 15
 healthy subjects. Differentially-expressed genes with adj.P.Val < 0.05 are
 presented in this data frame.
-\emph{Generated on Nov 1, 2019.}
+\emph{Generated on 1 Nov 2019.}
 }
 \seealso{
 \code{\link{example_pathfindR_output}} for the RA example pathfindR enrichment output

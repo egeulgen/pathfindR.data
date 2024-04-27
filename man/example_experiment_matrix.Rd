@@ -19,7 +19,7 @@ and quantile-normalized expression values of the differentially-expressed
 genes for 18 rheumatoid arthritis (RA) patients and 15 healthy subjects. The
 matrix contains expression values of  572 significantly
 differentially-expressed genes (see \code{\link{example_pathfindR_input}}) with adj.P.Val <= 0.05.
-\emph{Generated on Sep 28, 2019.}
+\emph{Generated on 28 Sep 2019.}
 }
 \seealso{
 \code{\link{example_pathfindR_input}} for the RA differentially-expressed genes data frame

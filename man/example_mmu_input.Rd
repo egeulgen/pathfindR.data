@@ -26,7 +26,7 @@ myeloma-associated macrophages by CSF1R antibody treatment. The samples were
 antibody (treatment group) and the rest were treated with control IgG
 antibody (control group). In this dataset, differentially-expressed genes
 with |logFC| >= 2 and FDR < 0.05 are presented.
-\emph{Generated on Nov 1, 2019.}
+\emph{Generated on 1 Nov 2019.}
 }
 \seealso{
 \code{\link{example_mmu_output}} for the example mmu enrichment output.

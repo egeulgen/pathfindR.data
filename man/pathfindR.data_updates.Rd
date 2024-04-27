@@ -12,7 +12,7 @@ A data frame with 30 rows and 6 columns:
 \item{Description}{Description of the data}
 \item{Source}{Source of the data}
 \item{Version}{Version of the data (if applicable)}
-\item{Last_Update}{Last update date}
+\item{Last Update}{Last update date}
 }
 }
 \usage{

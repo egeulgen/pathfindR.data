@@ -10,7 +10,7 @@
 #'   \item{Description}{Description of the data}
 #'   \item{Source}{Source of the data}
 #'   \item{Version}{Version of the data (if applicable)}
-#'   \item{Last_Update}{Last update date}
+#'   \item{Last Update}{Last update date}
 #' }
 "pathfindR.data_updates"
 

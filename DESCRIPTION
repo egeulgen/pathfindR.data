@@ -1,6 +1,6 @@
 Package: pathfindR.data
 Title: Data Package for 'pathfindR'
-Version: 2.1.0
+Version: 2.1.0.9000
 Authors@R: c(person("Ege", "Ulgen",
                     role = c("cre", "cph"), 
                     email = "egeulgen@gmail.com",

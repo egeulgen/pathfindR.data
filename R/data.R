@@ -192,9 +192,9 @@
 #' is a vector of gene symbols located in the given pathway. Names correspond to
 #' the KEGG ID of the pathway. Pathways that did not contain any genes were
 #' discarded.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 358 vectors of gene symbols. Each vector corresponds
+#' @format list containing 372 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "kegg_genes"
 
@@ -203,9 +203,9 @@
 #' A named vector containing the descriptions for each Homo sapiens KEGG pathway. Names of the
 #' vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 #' any genes were discarded.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format named vector containing 358 character values, the descriptions for the given
+#' @format named vector containing 372 character values, the descriptions for the given
 #'   pathways.
 "kegg_descriptions"
 
@@ -216,9 +216,9 @@
 #' is a vector of gene symbols located in the given pathway. Names correspond to
 #' the KEGG ID of the pathway. Pathways that did not contain any genes were
 #' discarded.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 355 vectors of gene symbols. Each vector corresponds
+#' @format list containing 368 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "mmu_kegg_genes"
 
@@ -227,9 +227,9 @@
 #' A named vector containing the descriptions for each Mus musculus KEGG pathway. Names of the
 #' vector correspond to the KEGG ID of the pathway. Pathways that did not contain
 #' any genes were discarded.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format named vector containing 355 character values, the descriptions for the given
+#' @format named vector containing 368 character values, the descriptions for the given
 #'   pathways.
 "mmu_kegg_descriptions"
 
@@ -238,9 +238,9 @@
 #' A list containing the genes involved in each human Reactome pathway. Each
 #' element is a vector of gene symbols located in the given pathway. Names
 #' correspond to the Reactome ID of the pathway.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 2681 vectors of gene symbols. Each vector corresponds
+#' @format list containing 2855 vectors of gene symbols. Each vector corresponds
 #'   to a pathway.
 "reactome_genes"
 
@@ -248,9 +248,9 @@
 #'
 #' A named vector containing the descriptions for each human Reactome pathway. Names of the
 #' vector correspond to the Reactome ID of the pathway.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format named vector containing 2681 character values, the descriptions for the given
+#' @format named vector containing 2855 character values, the descriptions for the given
 #'   pathways.
 "reactome_descriptions"
 
@@ -258,7 +258,7 @@
 #'
 #' A list containing the genes involved in each human BioCarta pathway. Each
 #' element is a vector of gene symbols located in the given pathway.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
 #' @format list containing 292 vectors of gene symbols. Each vector corresponds
 #'   to a gene set.
@@ -267,7 +267,7 @@
 #' BioCarta Pathways - Descriptions
 #'
 #' A named vector containing the descriptions for each human BioCarta pathway.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
 #' @format named vector containing 292 character values, the descriptions for the given
 #'   pathways.
@@ -282,9 +282,9 @@
 #' Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
 #' database of manually curated cell markers in human/mouse and web tools based
 #' on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 1986 vectors. Each vector corresponds to a cell marker
+#' @format list containing 700 vectors. Each vector corresponds to a cell marker
 #' gene set for a given human cell type.
 "cell_markers_gsets"
 
@@ -297,9 +297,9 @@
 #' Hu C, Li T, Xu Y, Zhang X, Li F, Bai J, et al. CellMarker 2.0: an updated
 #' database of manually curated cell markers in human/mouse and web tools based
 #' on scRNA-seq data. Nucleic Acids Res. 2022 Oct 27;gkac947.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format named vector containing 1986 character values, the descriptions for
+#' @format named vector containing 700 character values, the descriptions for
 #' the given human cell types.
 "cell_markers_descriptions"
 
@@ -307,9 +307,9 @@
 #'
 #' A list containing the genes involved in each GO ontology term. Each
 #' element is a vector of gene symbols located in the given gene set.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 15450 vectors of gene symbols. Each vector corresponds
+#' @format list containing 15893 vectors of gene symbols. Each vector corresponds
 #'   to a GO gene set.
 "go_all_genes"
 

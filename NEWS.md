@@ -1,3 +1,5 @@
+# pathfindR.data (development version)
+
 # pathfindR.data 2.2.0
 
 - Updated hsa KEGG pathways gene set objects `kegg_genes` and `kegg_descriptions`

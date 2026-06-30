@@ -42,9 +42,9 @@
 #' A dataset containing the results of pathfindR's active-subnetwork-oriented
 #' enrichment workflow performed on the Mus musculus myeloma
 #' differential expression dataset \code{\link{example_mmu_input}}.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 30 Jun 2026.}
 #'
-#' @format A data frame with 34 rows and 9 columns:
+#' @format A data frame with 30 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -107,9 +107,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis
 #' differential-expression data frame \code{\link{example_pathfindR_input}}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format A data frame with 121 rows and 9 columns:
+#' @format A data frame with 138 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -135,9 +135,9 @@
 #' function \code{\link[pathfindR]{cluster_enriched_terms}} was used with the default settings
 #' (i.e. hierarchical clustering was performed and the agglomeration method
 #' was "average").
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format A data frame with 121 rows and 11 columns:
+#' @format A data frame with 138 rows and 11 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -164,9 +164,9 @@
 #' enrichment workflow performed on the rheumatoid arthritis dataset GSE84074
 #' \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84074}. Analysis via
 #' \code{run_pathfindR} was performed using the default settings.
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format A data frame with 38 rows and 9 columns:
+#' @format A data frame with 43 rows and 9 columns:
 #' \describe{
 #'   \item{ID}{ID of the enriched term}
 #'   \item{Term_Description}{Description of the enriched term}
@@ -318,16 +318,16 @@
 #'
 #' A data frame consisting of pathfindR enrichment analysis results on the
 #' example TF target genes data (target gene sets of CREB and MYC).
-#' \emph{Generated on 27 Apr 2024.}
+#' \emph{Generated on 29 Jun 2026.}
 #' @format data frame containing 2 rows and 9 columns. Each row is a gene set (the TF target gene sets).
 "example_custom_genesets_result"
 
 #' Example Active Subnetworks
 #'
-#' A list of vectors containing genes for each active subnetwork that passed
-#' the filtering step.
-#' \emph{Generated on 27 Apr 2024.}
+#' A list containing \code{subnetworks}: a list of of genes in every
+#' active subnetwork that passed filtering
+#' and \code{scores} the score of each filtered active subnetwork
+#' \emph{Generated on 29 Jun 2026.}
 #'
-#' @format list containing 150 vectors. Each vector is the set of genes for the
-#' given active subnetwork.
+#' @format list containing 2 lists.
 "example_active_snws"

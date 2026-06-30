@@ -13,6 +13,6 @@ example_custom_genesets_result
 \description{
 A data frame consisting of pathfindR enrichment analysis results on the
 example TF target genes data (target gene sets of CREB and MYC).
-\emph{Generated on 27 Apr 2024.}
+\emph{Generated on 29 Jun 2026.}
 }
 \keyword{datasets}

@@ -5,7 +5,7 @@
 \alias{pathfindR.data_updates}
 \title{Table of Data for pathfindR}
 \format{
-A data frame with 30 rows and 6 columns:
+A data frame with 29 rows and 6 columns:
 \describe{
 \item{Category}{Category of the data}
 \item{Name}{Name of the data}

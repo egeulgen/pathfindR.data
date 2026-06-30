@@ -3,7 +3,7 @@
 #' Data frame containing all the data for pathfindR along with descriptions and
 #' last update dates.
 #'
-#' @format A data frame with 30 rows and 6 columns:
+#' @format A data frame with 29 rows and 6 columns:
 #' \describe{
 #'   \item{Category}{Category of the data}
 #'   \item{Name}{Name of the data}

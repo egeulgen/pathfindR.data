@@ -1,19 +1,14 @@
 ## Test environments
-* local OS X 14.4.1, R 4.4.0
-* macOS-latest (on GitHub-Actions), R 4.4.0
-* windows-latest (on GitHub-Actions), R 4.4.0
-* ubuntu-latest (on GitHub-Actions), R 4.3.3, 4.4.0, 4.5.0
+* local macOS 15.7.4, R 4.6.1
+* macOS-latest (on GitHub-Actions), R 4.6.1
+* windows-latest (on GitHub-Actions), R 4.6.1
+* ubuntu-latest (GitHub Actions), R 4.6.0
+* ubuntu-latest (GitHub Actions), R oldrel
+* ubuntu-latest (GitHub Actions), R devel
 * win-builder (devel and release)
 
 ## R CMD check results
-There were no ERRORs or WARNINGs
-
-1 NOTE:
-❯ checking installed package size ... NOTE
-    installed size is  5.7Mb
-    sub-directories of 1Mb or more:
-      R      4.0Mb
-      data   1.5Mb
+0 errors | 0 warnings | 0 notes
 
 This submission is for updating data related to the CRAN package 'pathfindR'. 
 This package was created to reduce the size of the main package
@@ -22,4 +17,4 @@ and is only updated infrequently.
 ## Downstream dependencies
 I have also run R CMD check on 'pathfindR' (which I maintain as well), the 
 only downstream dependency of 'pathfindR.data'. The failing test will be fixed
-by the next 'pathfindR' releaes (2.4.0)
+by the next 'pathfindR' release (3.0.2)
